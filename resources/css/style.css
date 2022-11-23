@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.navs {
+    margin-left: 64px;
+    top: 25px;
+    position: absolute;
+}
+
+.Inicio-Acerca-de-nos {
+    display: inline-block;
+    width: 579px;
+    height: 37px;
+    margin: 19px 532px 144px 100px;
+    font-family: 'Hind', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    color: #fff;
+}
+
+.Inicio-Acerca-de-nos .Text-Style-10 {
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
+
+.Inicio-Acerca-de-nos .Text-Style {
+    margin-left: 62px;
+}
+
+.ES-EN {
+    width: 62px;
+    height: 37px;
+    margin: 20px 0 143px 402px;
+    font-family: 'Hind', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 1.14px;
+    color: #fff;
+    right: 40px;
+    top: 25px;
+    position: absolute
+}
+
+.ES-EN .Text-Style-5 {
+    font-weight: normal;
+    margin-left: 15px;
+}
+
+.the-best-raquets {
+    position: absolute;
+    top: 200px;
+    left: 71px;
+    width: 709px;
+    height: 257px;
+    margin: 130px 402px 27px 100px;
+    font-family: 'Hind', sans-serif;
+    font-size: 53px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: -0.05px;
+}
+
+.Las-mejores-raquetas {
+    color: #fff;
+}
+
+.Las-mejores-raquetas .text-style-1 {
+    font-weight: bold;
+    color: #cbe346;
+}
+
+.btn-about-us {
+    width: 269px !important;
+    height: 53px !important;
+    /* margin: 361px 842px 0 100px;
+    padding: 15px 39px 15px 30px; */
+    border-radius: 26.5px;
+    border: solid 1px #fff;
+    margin-top: 46px;
+    margin-left: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ACERCA-DE-NOSOTROS {
+    width: 190px;
+    height: 23px;
+    margin: 0 10px 0 0;
+    font-family: 'Hind', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.15;
+    letter-spacing: 1.01px;
+    color: #fff;
+    display: inline-block;
+}
+
+.Path {
+    width: 23px;
+    height: 6px;
+    /* margin: 9px 0 8px 177px; */
+    background-color: #fefefe;
+}
+
+.Path1 {
+    width: 33px;
+    height: 6px;
+    background: white;
+}
+
+.section-accessories {
+    display: flex;
+}
+
+.raquets-and-accessories {
+    width: 555px;
+    height: 151px;
+    margin: 0 0 15px 51px;
+    font-family: 'Hind', sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: -0.06px;
+    color: var(--dark);
+    margin-top: 96px;
+}
+
+.TENNIS {
+    width: 174px;
+    height: 33px;
+    font-family: 'Hind', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2;
+    letter-spacing: 1.87px;
+    text-align: right;
+    color: #cbe346;
+    margin-left: 255px;
+    margin-top: 107px;
+}
+
+.testtziriariasmyshopifycom {
+    width: 1440px;
+    height: 2438px;
+}
+
+.conoce-nuestras-raquetas {
+    display: flex;
+}
+
+.Conoce-nuestras-raqu {
+    width: 393px;
+    height: 87px;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: 0.51px;
+    color: #787878;
+    margin-left: 485px;
+}
+
+.btn-historia {
+    width: 234px;
+    height: 53px;
+    margin: 25px 0 0;
+    box-sizing: border-box;
+    border-radius: 26.5px;
+    border: solid 1px #282e47;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 162px;
+}
+
+.HISTORIA {
+    width: 125px;
+    height: 23px;
+    margin: 0 10px 0 0;
+    font-family: 'Hind', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.15;
+    letter-spacing: 1.01px;
+    color: #273048;
+}
+
+img.Path {
+    width: 23px;
+    height: 6px;
+    margin: 9px 0 8px 10px;
+    object-fit: contain;
+}
+
+.img-ball-color {
+    width: 530px;
+    /* height: 468px; */
+    position: relative;
+    margin: 0px 0px 0px 3px;
+}
+
+.Nuestras-Raquetas {
+    width: 259px;
+    height: 151px;
+    padding: 10px;
+    font-family: 'Hind', sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: -0.06px;
+    color: #fff;
+    position: absolute;
+    right: 71px;
+    top: 38px;
+}
+
+/* img.ball-color-court-1405355 {
+    width: 530px;
+    height: 468px; 
+    object-fit: contain;
+    position: relative;
+} */
+
+.Conoce-nuestras-raqu2 {
+    width: 303px;
+    height: 122px;
+    margin: 135px 0 14px 10px;
+    font-family: 'Hind', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.67;
+    letter-spacing: 1.55px;
+    color: #fff;
+    top: 40px;
+    position: absolute;
+    right: 37px;
+}
+
+.bullets {
+    top: 294px;
+    position: absolute;
+    left: 191px;
+}
+
+img.Oval {
+    width: 8px;
+    height: 8px;
+    margin: 0 24px 0 0;
+    object-fit: contain;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+img.Oval:active {
+    background-color: #cbe346;
+}
+
+.group-copy {
+    position: absolute;
+    bottom: 73px;
+    left: 190px;
+}
+
+img.Group-Copy-1 {
+    width: 54px;
+    height: 54px;
+    margin: 0 19px 0px 0;
+    object-fit: contain;
+    transform: rotate(180deg);
+}
+
+img.Group-Copy-2 {
+    width: 54px;
+    height: 54px;
+    margin: 0 19px -7px 0;
+    object-fit: contain;
+}
+
+.img-raquet {
+    margin-left: 53px;
+    position: relative;
+}
+
+.uno,
+.dos,
+.tres {
+    width: 39px;
+    height: 39px;
+    background-color: #cbe346;
+    position: absolute;
+    top: 53px;
+    border-radius: 50%;
+    margin: 11px 0px 0px 17px;
+    text-align: center;
+}
+
+.uno span {
+    width: 23px;
+    height: 33px;
+    font-family: HelveticaNeue;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.76;
+    letter-spacing: 2.11px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+
+.dos span {
+    width: 23px;
+    height: 33px;
+    font-family: HelveticaNeue;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.76;
+    letter-spacing: 2.11px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+
+.tres span {
+    width: 23px;
+    height: 33px;
+    font-family: HelveticaNeue;
+    font-size: 17px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.76;
+    letter-spacing: 2.11px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+
+.img-raquets-two {
+    margin-left: 37px;
+    position: relative;
+}
+
+.img-raquets-three {
+    margin-left: 37px;
+    position: relative;
+}
+
+img.Group-10 {
+    width: 288px;
+    height: 344px;
+    margin-top: 51px;
+    object-fit: contain;
+}
+
+img.Group-12 {
+    width: 212px;
+    height: 344px;
+    margin-top: 51px;
+    object-fit: contain;
+}
+
+.section-five {
+    width: 1440px;
+    height: 203px;
+    background-color: #cbe346;
+    margin-left: 35px;
+    margin-top: -4px;
+}
+
+.Inicio-Acerca-de-nosotros .text-style-1 {
+    font-weight: bold;
+}
+
+.Text-Style-2 {
+    margin-left: 47px;
+}
+
+img.Group-23,
+img.Group-24,
+img.Group-25,
+img.Group-26,
+img.Group-22 {
+    width: 31px;
+    height: 31px;
+    margin: 0 12px 0 0;
+    object-fit: contain;
+}
